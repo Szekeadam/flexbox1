@@ -18,21 +18,21 @@ height: 300px;
     width: 100%;
     height: 300px;
 }
-.masodik-fel{
+.masodik-feladat{
     #zold2{
         background-color: green;
-        width: 100%;
+        width: 45%;
         height: 200px;
     }
     }
     #lila2{
         background-color: purple;
-        width: 100%;
+        width: 45%;
         height: 200px;
     }
     #sarga2{
         background-color: yellow;
-        width: 100%;
+        width: 45%;
         height: 400px;
 
 }
